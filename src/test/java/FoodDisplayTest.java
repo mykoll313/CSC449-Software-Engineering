@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * Unit tests for the Food Display acceptance criteria:
- * Then a list or visual representation of food items is shown.
+ * list of food items .
  */
 public class FoodDisplayTest {
 
